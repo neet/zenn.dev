@@ -1,0 +1,14 @@
+{
+  "name": "zenn.dev",
+  "scripts": {
+    "dev": "zenn preview"
+  },
+  "private": true,
+  "version": "1.0.0",
+  "repository": "https://github.com/neet/zenn.dev.git",
+  "author": "Ryo Igarashi <n33t5hin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "zenn-cli": "^0.1.131"
+  }
+}
